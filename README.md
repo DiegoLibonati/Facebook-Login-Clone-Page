@@ -37,6 +37,4 @@ I made a website about facebook login clone, but basically what I did was to tak
 
 ## Video
 
-
 https://user-images.githubusercontent.com/99032604/199619350-fcb852a2-3ddb-4401-bca7-46e6696c9164.mp4
-
